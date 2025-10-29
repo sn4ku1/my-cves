@@ -11,6 +11,7 @@ For each CVE, you will find a detailed report in Markdown format, along with the
 | CVE ID | Title | Affected System | Report |
 |:-------|:------|:----------------|:-------|
 | CVE-2025-11279 | RCE via CSV Injection | Axosoft Scrum and Bug Tracking v22.1.1.11545 | [PDF](reports/CVE-2025-11279.pdf) |
+| CVE-2025-12249 | RCE via CSV Injection | Axosoft Scrum and Bug Tracking v22.1.1.11545 | [PDF](reports/CVE-2025-12249.pdf) |
 
 More CVEs will be added as they are assigned and disclosed.
 
@@ -21,6 +22,7 @@ More CVEs will be added as they are assigned and disclosed.
 If you have questions or would like to discuss any of these reports, feel free to contact me:
 
 - **LinkedIn:** [@sn4ku1](https://www.linkedin.com/in/sn4ku1)
+- **Medium:** [@sn4ku1](https://medium.com/@sn4ku1)
 
 ---
 
